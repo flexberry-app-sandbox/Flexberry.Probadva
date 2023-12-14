@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probadva-формир-рез-пос-e",
+  "editForm": "i-i-s-probadva-формир-рез-пос-e",
+  "external": false,
+  "caption": "Формир рез пос",
+  "name": "IISProbadvaФормирРезПосL",
+  "className": "ФормирРезПосL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probadva-формир-рез-пос",
+      "modelProjection": "ФормирРезПосL"
+    }
+  ]
+}

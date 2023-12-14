@@ -1,0 +1,102 @@
+﻿{
+  "applicationCaption": "Probadva",
+  "applicationTitle": "Probadva",
+  "items": [
+    {
+      "link": null,
+      "menuName": "логистика",
+      "caption": "Логистика",
+      "title": "Логистика",
+      "children": [
+        {
+          "link": "i-i-s-probadva-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": null,
+          "menuName": "данные-об-организации",
+          "caption": "Данные об организации",
+          "title": "Данные об организации",
+          "children": [
+            {
+              "link": "i-i-s-probadva-организация-l",
+              "menuName": null,
+              "caption": "Организация",
+              "title": "Организация",
+              "children": null
+            },
+            {
+              "link": "i-i-s-probadva-список-контей-l",
+              "menuName": null,
+              "caption": "Список контейнеров",
+              "title": "Список контей",
+              "children": null
+            },
+            {
+              "link": "i-i-s-probadva-пункт-погрузки-l",
+              "menuName": null,
+              "caption": "Пункт погрузки",
+              "title": "Пункт погрузки",
+              "children": null
+            },
+            {
+              "link": "i-i-s-probadva-список-барж-l",
+              "menuName": null,
+              "caption": "Список барж",
+              "title": "Список барж",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "номенклатура",
+          "caption": "Номенклатура",
+          "title": "Номенклатура",
+          "children": [
+            {
+              "link": "i-i-s-probadva-товары-l",
+              "menuName": null,
+              "caption": "Товары",
+              "title": "Товары",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "документы",
+          "caption": "Документы",
+          "title": "Документы",
+          "children": [
+            {
+              "link": "i-i-s-probadva-формир-рез-пос-l",
+              "menuName": null,
+              "caption": "Формирование результата поставки",
+              "title": "Формир рез пос",
+              "children": null
+            },
+            {
+              "link": "i-i-s-probadva-формир-распр-l",
+              "menuName": null,
+              "caption": "Формирование документа распределения",
+              "title": "Формир распр",
+              "children": null
+            },
+            {
+              "link": "i-i-s-probadva-докум-постав-l",
+              "menuName": null,
+              "caption": "Документ поставки",
+              "title": "Докум постав",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

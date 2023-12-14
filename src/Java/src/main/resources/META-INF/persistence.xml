@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Probadva.model.Klienty</class>
+        <class>Probadva.model.SpisokBarzh</class>
+        <class>Probadva.model.PunktPogruzki</class>
+        <class>Probadva.model.Organizaciya</class>
+        <class>Probadva.model.DokumPostav</class>
+        <class>Probadva.model.InforOZakaze</class>
+        <class>Probadva.model.FormirRezPos</class>
+        <class>Probadva.model.FormirRaspr</class>
+        <class>Probadva.model.Tovary</class>
+        <class>Probadva.model.SpisokKontej</class>
+        <class>Probadva.model.FlexberryAdvLimit</class>
+        <class>Probadva.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Probadva.model.NewPlatformFlexberryServicesLock</class>
+        <class>Probadva.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

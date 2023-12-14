@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probadva-список-контей-e",
+  "editForm": "i-i-s-probadva-список-контей-e",
+  "external": false,
+  "caption": "Список контей",
+  "name": "IISProbadvaСписокКонтейL",
+  "className": "СписокКонтейL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probadva-список-контей",
+      "modelProjection": "СписокКонтейL"
+    }
+  ]
+}

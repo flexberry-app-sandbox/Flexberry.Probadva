@@ -1,0 +1,1 @@
+docker-compose -p probadva-java down
