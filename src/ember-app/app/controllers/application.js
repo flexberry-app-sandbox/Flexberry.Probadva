@@ -28,7 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-probadva-клиенты-l',
             caption: i18n.t('forms.application.sitemap.логистика.i-i-s-probadva-клиенты-l.caption'),
             title: i18n.t('forms.application.sitemap.логистика.i-i-s-probadva-клиенты-l.title'),
-            icon: 'building',
+            icon: 'suitcase',
             children: null
           }, {
             link: null,
@@ -38,25 +38,25 @@ export default Controller.extend({
               link: 'i-i-s-probadva-организация-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-организация-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-организация-l.title'),
-              icon: 'archive',
+              icon: 'building',
               children: null
             }, {
               link: 'i-i-s-probadva-список-контей-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-список-контей-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-список-контей-l.title'),
-              icon: 'chart bar',
+              icon: 'address card',
               children: null
             }, {
               link: 'i-i-s-probadva-пункт-погрузки-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-пункт-погрузки-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-пункт-погрузки-l.title'),
-              icon: 'archive',
+              icon: 'table',
               children: null
             }, {
               link: 'i-i-s-probadva-список-барж-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-список-барж-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-probadva-список-барж-l.title'),
-              icon: 'tags',
+              icon: 'suitcase',
               children: null
             }]
           }, {
@@ -67,7 +67,7 @@ export default Controller.extend({
               link: 'i-i-s-probadva-товары-l',
               caption: i18n.t('forms.application.sitemap.логистика.номенклатура.i-i-s-probadva-товары-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.номенклатура.i-i-s-probadva-товары-l.title'),
-              icon: 'file',
+              icon: 'folder open',
               children: null
             }]
           }, {
@@ -78,19 +78,18 @@ export default Controller.extend({
               link: 'i-i-s-probadva-формир-рез-пос-l',
               caption: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-формир-рез-пос-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-формир-рез-пос-l.title'),
-              icon: 'list',
+              icon: 'calendar',
               children: null
             }, {
               link: 'i-i-s-probadva-формир-распр-l',
               caption: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-формир-распр-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-формир-распр-l.title'),
-              icon: 'briefcase',
               children: null
             }, {
               link: 'i-i-s-probadva-докум-постав-l',
               caption: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-докум-постав-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документы.i-i-s-probadva-докум-постав-l.title'),
-              icon: 'folder',
+              icon: 'tags',
               children: null
             }]
           }]
