@@ -2,7 +2,7 @@
   "newForm": "i-i-s-probadva-докум-постав-e",
   "editForm": "i-i-s-probadva-докум-постав-e",
   "external": false,
-  "caption": "Докум постав",
+  "caption": "Документ поставки",
   "name": "IISProbadvaДокумПоставL",
   "className": "ДокумПоставL",
   "attrs": [],

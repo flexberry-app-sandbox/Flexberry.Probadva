@@ -10,7 +10,7 @@
     }
   ],
   "external": false,
-  "caption": "Формир рез пос",
+  "caption": "Формирование результата поставки",
   "name": "IISProbadvaФормирРезПосE",
   "className": "ФормирРезПосE",
   "attrs": [],

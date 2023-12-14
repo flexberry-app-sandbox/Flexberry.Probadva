@@ -34,7 +34,7 @@
     }
   ],
   "external": false,
-  "caption": "Формир распр",
+  "caption": "Формирование документа распределения",
   "name": "IISProbadvaФормирРаспрE",
   "className": "ФормирРаспрE",
   "attrs": [],

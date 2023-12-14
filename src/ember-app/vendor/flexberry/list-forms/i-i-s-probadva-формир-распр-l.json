@@ -2,7 +2,7 @@
   "newForm": "i-i-s-probadva-формир-распр-e",
   "editForm": "i-i-s-probadva-формир-распр-e",
   "external": false,
-  "caption": "Формир распр",
+  "caption": "Формирование документа распределения",
   "name": "IISProbadvaФормирРаспрL",
   "className": "ФормирРаспрL",
   "attrs": [],
